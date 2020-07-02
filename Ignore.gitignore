@@ -1,0 +1,5 @@
+# Ignore HTML Files
+.HTML
+
+# Ignore More HTML Files
+*.HTML

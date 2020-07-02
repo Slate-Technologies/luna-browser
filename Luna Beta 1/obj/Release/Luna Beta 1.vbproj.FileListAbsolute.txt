@@ -1,0 +1,12 @@
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\bin\Release\Luna Browser 1.0.exe.config
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\bin\Release\Luna Browser 1.0.exe
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\bin\Release\Luna Browser 1.0.pdb
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\bin\Release\Luna Browser 1.0.xml
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna Beta 1.vbprojAssemblyReference.cache
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna_Beta_1.Form1.resources
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna_Beta_1.Resources.resources
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna Beta 1.vbproj.GenerateResource.cache
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna Beta 1.vbproj.CoreCompileInputs.cache
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna Browser 1.0.exe
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna Browser 1.0.xml
+C:\Users\edan\source\repos\Luna Beta 1\Luna Beta 1\obj\Release\Luna Browser 1.0.pdb
